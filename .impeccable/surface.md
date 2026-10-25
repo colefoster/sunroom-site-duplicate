@@ -1,0 +1,2 @@
+# Product detail page
+Mode: Persuade. Visitor should understand The Sunday's silhouette, choose a color, examine lifestyle context, and try the demo bag. All commercial details illustrative. Signature: huge SOLI wordmark and a product spread with a sun icon, warm shadows, and bold citron purchase action. One contained bag drawer. Fit guide uses native details. Responsive gallery and accessible controls. Local generated imagery and font assets.

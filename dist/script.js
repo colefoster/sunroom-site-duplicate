@@ -183,7 +183,7 @@ function initTintDemo(root) {
 
 document.querySelectorAll('[data-demo]').forEach(initTintDemo);
 const copyButton = document.querySelector('[data-copy]');
-copyButton.addEventListener('click', async () => {
+copyButton?.addEventListener('click', async () => {
   const command = document.querySelector('#clone-command');
   try {
     await navigator.clipboard.writeText(command.textContent.trim());
